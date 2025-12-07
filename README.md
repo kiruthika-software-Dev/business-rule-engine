@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Rule-engine
 
 ## WHEN THE CONDITION IS TRUE
@@ -8,3 +9,6 @@
 
 ## ERROR VALIDATION 
 ![Screenshot 2024-10-25 192122](https://github.com/user-attachments/assets/e040c52a-8dcd-492b-aa5a-0cb3dd0e4710)
+=======
+# business-rule-engine
+>>>>>>> 92e5d28b87bd3911225c16682d0f82bc82ceb56e
